@@ -391,7 +391,7 @@ function Index() {
                     <label className="text-sm font-medium">Название компании</label>
                     <input 
                       type="text" 
-                      defaultValue="ООО \"Импорт-Экспорт\"" 
+                      defaultValue='ООО "Импорт-Экспорт"' 
                       className="w-full px-3 py-2 border rounded-md"
                     />
                   </div>
